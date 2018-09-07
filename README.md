@@ -1,2 +1,6 @@
-# spring-boot-2-flayway
-SB 2 + Flyway
+# Spring Boot 2 + Flyway
+
+
+Resources:
+* https://www.callicoder.com/spring-boot-flyway-database-migration-example/
+
